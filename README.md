@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a CS Student currently studying in COMSATS University Islamabad. I'm a part time content writer as well with almost 6 years of experience working as a freelancer. Also a part time gamer and game dev enthusiast.
+
 <!--
 **OmerNadeem52/OmerNadeem52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
